@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    padding: 0px;
+    margin: 0px;
+}
+
+.main-section{
+    height: 740px;
+    background-color: red;
+}
